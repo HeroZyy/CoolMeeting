@@ -43,4 +43,5 @@
     <select id="getEmpsByDepId" resultType="org.javaboy.meeting.model.Employee">
         select * from employee where departmentid=#{depId};
     </select>
+
 </mapper>

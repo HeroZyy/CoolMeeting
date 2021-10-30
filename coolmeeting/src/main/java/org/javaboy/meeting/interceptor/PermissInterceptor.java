@@ -13,6 +13,8 @@ import javax.servlet.http.HttpSession;
  * @微信 z17779287224
  * @GitHub https://github.com/HeroZyy
  */
+
+//实现简单的拦截器功能
 public class PermissInterceptor implements HandlerInterceptor {
     AntPathMatcher pathMatcher = new AntPathMatcher();
 

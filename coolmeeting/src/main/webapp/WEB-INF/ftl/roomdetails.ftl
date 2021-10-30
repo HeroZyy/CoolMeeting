@@ -12,6 +12,8 @@
         <div class="content-nav">
             会议预定 > 修改会议室信息
         </div>
+
+
         <form action="/updateroom" method="post">
             <fieldset>
                 <legend>会议室信息</legend>
@@ -68,7 +70,7 @@
 </div>
 <div class="page-footer">
     <hr/>
-    更多问题，欢迎联系<a href="mailto:webmaster@eeg.com">管理员</a>
+    更多问题，欢迎联系<a href="mailto:1048666899@qq.com">管理员</a>
     <img src="/images/footer.png" alt="CoolMeeting"/>
 </div>
 </body>

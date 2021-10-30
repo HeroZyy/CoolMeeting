@@ -28,6 +28,7 @@ public class DepartmentService {
     public Integer adddepartment(String departmentname) {
         Department dep = departmentMapper.getDepByName(departmentname);
         if (dep != null) {
+            //有了就不用插入了
             return -1;
         }
         return departmentMapper.adddepartment(departmentname);

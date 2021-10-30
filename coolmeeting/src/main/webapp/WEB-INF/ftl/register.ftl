@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CoolMeeting会议管理系统</title>
+    <title>会议管理系统</title>
     <link rel="stylesheet" href="/styles/common.css"/>
     <style type="text/css">
 
@@ -42,7 +42,7 @@
                         <td>确认密码：</td>
                         <td>
                             <input type="password" id="confirm" maxlength="20" onchange="check()"/>
-                            <div style="color: #ff0114" id="confirminfo"></div>
+                            <div style="color: #ffbeba" id="confirminfo"></div>
                         </td>
                     </tr>
                     <tr>

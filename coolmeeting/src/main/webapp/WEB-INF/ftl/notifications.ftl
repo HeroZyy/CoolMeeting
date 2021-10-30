@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="/styles/common.css"/>
 </head>
 <body>
+<#--"引入头"-->
 <#include 'top.ftl'>
 <div class="page-body">
     <#include 'leftMenu.ftl'>
@@ -99,7 +100,7 @@
 </div>
 <div class="page-footer">
     <hr/>
-    更多问题，欢迎联系<a href="mailto:webmaster@eeg.com">管理员</a>
+    更多问题，欢迎联系<a href="mailto:1048666899@qq.com">管理员</a>
     <img src="/images/footer.png" alt="CoolMeeting"/>
 </div>
 </body>
